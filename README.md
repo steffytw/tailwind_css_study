@@ -1,2 +1,2 @@
 # tailwind_css_study
-Tailwind css
+Tailwind css in reactjs
